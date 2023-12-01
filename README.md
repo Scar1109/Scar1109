@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kaveen.dinethma@gmail.com**
   
