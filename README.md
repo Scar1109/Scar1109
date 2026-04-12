@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **RPA**
 
-- 📫 How to reach me **kaveaen.dinethma@gmail.com**
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
